@@ -1,0 +1,13 @@
+{
+  "name": "config-compile-debug-ts-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -v",
+    "build": "tsc src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
