@@ -1,5 +1,4 @@
-SELECT companies.id AS company_id, 
-    companies.name AS company_name, 
+SELECT companies.name AS company_name, 
     users.id AS user_id, 
     users.email, 
     users.first_name, 
